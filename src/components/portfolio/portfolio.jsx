@@ -12,36 +12,36 @@ const data = [
     id: 1,
     image: IMG1,
     title:"Heart Disease Detector" ,
-    github: "#",
-    demo: "#"
+    github: "https://github.com/SoumyajitPaul-git/Heart-Disese-Detector",
+    demo: "https://github.com/SoumyajitPaul-git/Heart-Disese-Detector"
   },
   {
     id: 2,
     image: IMG2,
     title:"Portfolio" ,
-    github: "#",
-    demo: "#"
+    github: "https://github.com/SoumyajitPaul-git/Portfolio",
+    demo: "https://soumyajitpaul-git.github.io/Portfolio/"
   },
   {
     id: 3,
     image: IMG3,
     title:"Weather App" ,
-    github: "#",
-    demo: "#"
+    github: "https://github.com/SoumyajitPaul-git/Weather-App",
+    demo: "https://soumyajitpaul-git.github.io/Weather-App/"
   },
   {
     id: 4,
     image: IMG4,
     title:"Snake Game" ,
-    github: "#",
-    demo: "#"
+    github: "https://github.com/SoumyajitPaul-git/Snake-Game",
+    demo: "https://github.com/SoumyajitPaul-git/Snake-Game"
   },
   {
     id: 5,
     image: IMG5,
     title:"To-Do List" ,
-    github: "#",
-    demo: "#"
+    github: "https://github.com/SoumyajitPaul-git/ToDo-List/",
+    demo: "https://soumyajitpaul-git.github.io/ToDo-List/"
   },
   
 ]
