@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/SoumyajitPaul-git/Portfolio/static/css/main.e3c89075.css",
+    "main.js": "/SoumyajitPaul-git/Portfolio/static/js/main.c85cbb0e.js",
+    "static/media/Soumyajit_Paul_CV2page.pdf": "/SoumyajitPaul-git/Portfolio/static/media/Soumyajit_Paul_CV2page.caaf94a55cb2d4701812.pdf",
+    "static/media/Soumya.png": "/SoumyajitPaul-git/Portfolio/static/media/Soumya.ed3215cfe01b35c8935c.png",
+    "static/media/Weather.png": "/SoumyajitPaul-git/Portfolio/static/media/Weather.d1fee081b41bd5d1c099.png",
+    "static/media/portfolio6.jpg": "/SoumyajitPaul-git/Portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/Portfolio.png": "/SoumyajitPaul-git/Portfolio/static/media/Portfolio.bd43dd3ef86fec24db35.png",
+    "static/media/Soumya_port.jpg": "/SoumyajitPaul-git/Portfolio/static/media/Soumya_port.ec111d6a7d4614e2bed0.jpg",
+    "static/media/ToDoList.png": "/SoumyajitPaul-git/Portfolio/static/media/ToDoList.2e15f55986294bc3442a.png",
+    "static/media/Snake.png": "/SoumyajitPaul-git/Portfolio/static/media/Snake.32cce4b2932f89abf9a1.png",
+    "index.html": "/SoumyajitPaul-git/Portfolio/index.html",
+    "main.e3c89075.css.map": "/SoumyajitPaul-git/Portfolio/static/css/main.e3c89075.css.map",
+    "main.c85cbb0e.js.map": "/SoumyajitPaul-git/Portfolio/static/js/main.c85cbb0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3c89075.css",
+    "static/js/main.c85cbb0e.js"
+  ]
+}
