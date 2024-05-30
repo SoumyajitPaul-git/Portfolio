@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.e3c89075.css",
-    "main.js": "/Portfolio/static/js/main.6709196b.js",
+    "main.js": "/Portfolio/static/js/main.9d70390e.js",
     "static/media/Soumyajit_Paul_CV2page.pdf": "/Portfolio/static/media/Soumyajit_Paul_CV2page.caaf94a55cb2d4701812.pdf",
     "static/media/Soumya.png": "/Portfolio/static/media/Soumya.ed3215cfe01b35c8935c.png",
     "static/media/Weather.png": "/Portfolio/static/media/Weather.d1fee081b41bd5d1c099.png",
@@ -12,10 +12,10 @@
     "static/media/Snake.png": "/Portfolio/static/media/Snake.32cce4b2932f89abf9a1.png",
     "index.html": "/Portfolio/index.html",
     "main.e3c89075.css.map": "/Portfolio/static/css/main.e3c89075.css.map",
-    "main.6709196b.js.map": "/Portfolio/static/js/main.6709196b.js.map"
+    "main.9d70390e.js.map": "/Portfolio/static/js/main.9d70390e.js.map"
   },
   "entrypoints": [
     "static/css/main.e3c89075.css",
-    "static/js/main.6709196b.js"
+    "static/js/main.9d70390e.js"
   ]
 }
